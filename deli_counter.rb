@@ -14,4 +14,5 @@ end
 
 def take_a_number(katz_deli)
   if "There is nobodyy in line"
-  else "should"
+  else "should add a person to the line"
+    puts 
