@@ -15,5 +15,5 @@ end
 def take_a_number(katz_deli)
   if "There is nobodyy in line"
   else "should add a person to the line"
-    puts "Welcome Ada you are 1 in line."
+    puts "Welcome, Ada. you are number 1 in line."
   end
