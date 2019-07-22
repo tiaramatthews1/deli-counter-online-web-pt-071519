@@ -1,6 +1,5 @@
-def deli_coutner(katz_deli)
+
 katz_deli = []
-end
 
 def line(katz_deli)
   
