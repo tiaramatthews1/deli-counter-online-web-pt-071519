@@ -1,13 +1,13 @@
 
 katz_deli = []
 
-def line(katz_deli)
+#def line(katz_deli)
   
-end
+#end
 
-def now_serving(katz_deli)
+#def now_serving(katz_deli)
   
-end
+#end
 
 def take_a_number(katz_deli)
   if "There is nobodyy in line"
